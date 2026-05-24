@@ -79,7 +79,7 @@ export default function LoginPage() {
         {/* Logo/Brand */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold gradient-text mb-2">
-            EliteEstates
+            RealEstates
           </h1>
           <p className="text-gray-400">Welcome back! Please login to your account</p>
         </div>
